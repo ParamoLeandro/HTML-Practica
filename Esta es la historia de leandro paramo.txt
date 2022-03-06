@@ -3,3 +3,4 @@ un universitario de programación dando sus primeros pasos
 en el pequeño mundo de git y github.
 
 Nacido en managua 
+Hoy hablaremos de su vida
